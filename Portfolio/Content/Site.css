@@ -1,0 +1,83 @@
+﻿.mainContainer {
+    display: flex;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 498px;
+}
+
+.name {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 60px;
+    font-family: 'Love Ya Like A Sister', cursive;
+    color: rgb(10, 8, 66)
+}
+
+.headShotImg {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headShotUnderLn {
+     width: 498px;
+     height: 5px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+.bioIntroBackgrnd {
+    background-color: rgb(247, 238, 248);
+    width: 465px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bioContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+.bioIntro {
+    font-size: 18px;
+    max-width: 440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bioHedrOne {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
+
+.bioParagrph {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 449px;
+}
+
+.exampleProjects {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
